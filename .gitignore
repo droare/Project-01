@@ -1,3 +1,4 @@
 .vs/
 *.vsidx
 *.vscode/
+appsettings.json
